@@ -17,9 +17,10 @@ const About = () => {
                     </p>
                     <br />
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                        Quas porro doloribus minus sunt. Minus vitae placeat cupiditate quo et, adipisci tempora, 
-                        alias libero inventore error eaque ipsa ea accusamus sequi.
+                        I am currently working as project engineer at wipro technologies, I 
+                        have completed by B.E computer science in Park college of Engineering 
+                        and Technology. I have an experience in configuring RAID, VCS clusters
+                        and install RHEL linux OS in servers.
                     </p>
                 </div>
         </div>
