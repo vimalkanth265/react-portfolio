@@ -16,7 +16,7 @@ const Portfolio = () => {
             <div className='shadow-md  shadow-gray-600 rounded-lg '>
                 <img src={todolist} alt=""  className='rounded-md '/>
                 <div className='flex items-center justify-center'>
-                    <button > <a href="https://github.com/vimalkanth265/react-todo" target='_blank' alt="github_link">demo</a></button>
+                    <button > <a href="https://github.com/vimalkanth265/react-todo" target='_blank' alt="github_link">Todolist</a></button>
                 </div>
             </div>
         </div>
